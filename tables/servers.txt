@@ -460,8 +460,8 @@ serverType tRO
 secureLogin 0
 secureLogin_type 0
 secureLogin_account 0
-patchserver wpatch.ragnarok.in.th
-patchpath /patch70
+patchserver cdn.exe.in.th
+patchpath /ragnarok/patchfile/
 serverEncoding Thai
 addTableFolders tRO
 charBlockSize 144
